@@ -30,14 +30,14 @@ Aplikasi berbasis Python yang digunakan untuk mencatat transaksi penjualan makan
 ### 📦 Menggunakan File Executable (.exe)
 
 1. *Unduh File yang Diperlukan*
-   - Buka repository: Pemesanan-Online-Seblak-Jaya
+   - Buka repository: `Pemesanan-Online-Seblak-Jaya`
    - Masuk ke folder dist dan unduh:
-     - dist/UASDPK.exe
-     - dist/transaksi.json (jika tersedia)
+     - `dist/UASDPK.exe`
+     - `dist/transaksi.json` (jika tersedia)
 
 2. *Jalankan Aplikasi*
-   - Simpan file dist/UASDPK.exe dan dist/transaksi.json dalam folder yang sama
-   - Klik dua kali dist/UASDPK.exe untuk menjalankan aplikasi
+   - Simpan file `dist/UASDPK.exe` dan `dist/transaksi.json` dalam folder yang sama
+   - Klik dua kali `dist/UASDPK.exe` untuk menjalankan aplikasi
    - Jika muncul peringatan dari Windows Defender, klik Run anyway atau tambahkan pengecualian secara manual
 
 3. *Persyaratan Sistem*
@@ -102,7 +102,7 @@ phyton src\UASDPK.py
 ## 📄 Dokumentasi Kode (Ringkasan)
 
 *flowchart*
-![alt text](IMG_20250607_124716.jpg?raw=true)
+![alt text](gambar/IMG_20250607_124716.jpg?raw=true)
 
 *Tampilan Utama*
 ![alt text](gambar/Tampilan_Utama.jpg?raw=true)
